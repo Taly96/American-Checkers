@@ -1,0 +1,5 @@
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameLogic\obj\Debug\GameLogic.pdb
