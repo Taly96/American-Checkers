@@ -1,0 +1,13 @@
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.csproj.AssemblyReference.cache
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\bin\Debug\GameUI.exe
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\bin\Debug\GameUI.pdb
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\bin\Debug\GameLogic.dll
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\bin\Debug\GameLogic.pdb
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.FormGamePlay.resources
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.FormGameSettings.resources
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.Properties.Resources.resources
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.csproj.GenerateResource.cache
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.csproj.CoreCompileInputs.cache
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.csproj.CopyComplete
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.exe
+C:\Users\talic\OneDrive\Desktop\B22 Ex05 TaliTochner 315878355 YuvalYechezkel 315971085\GameUI\obj\Debug\GameUI.pdb
